@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Gubbi Content</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 640px; margin: 48px auto; padding: 0 20px; color: #3A2A1B; line-height: 1.5; }
+    h1 { font-size: 2rem; }
+    code { background: #FFF6E5; padding: 2px 6px; border-radius: 6px; }
+    a { color: #0B3954; }
+    ul { padding-left: 1.2em; }
+  </style>
+</head>
+<body>
+  <h1>🐦 Gubbi Content</h1>
+  <p>Static weekly content for the <strong>Gubbi</strong> kids learning app. This site is read by the app — there is no UI here.</p>
+  <ul>
+    <li><a href="manifest.json">manifest.json</a> — latest week + list of weeks</li>
+    <li><a href="weeks/2026-06-22/content.json">weeks/2026-06-22/content.json</a></li>
+    <li><a href="weeks/2026-06-15/content.json">weeks/2026-06-15/content.json</a></li>
+  </ul>
+  <p>To publish a new week: add <code>weeks/&lt;date&gt;/content.json</code>, update <code>manifest.json</code>, run <code>node validate.mjs</code>, push.</p>
+</body>
+</html>
