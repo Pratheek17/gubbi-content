@@ -1,0 +1,234 @@
+{
+  "week": "2026-06-15",
+  "title": "Week of June 15",
+  "mascotMessage": "Hi! I'm Gubbi. Let's play and learn!",
+  "lessons": [
+    {
+      "id": "sounds",
+      "title": "Sounds & Letters",
+      "icon": "letters",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "Which one is maroon (dark red)?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🍎 Apple", "image": null, "correct": true },
+            { "id": "b", "label": "🍌 Banana", "image": null, "correct": false },
+            { "id": "c", "label": "🍃 Leaf", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "Which one is a sleeping line (lying down)?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "➖ Lying down", "image": null, "correct": true },
+            { "id": "b", "label": "❕ Standing up", "image": null, "correct": false },
+            { "id": "c", "label": "🌙 Curvy line", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q3",
+          "prompt": "Which one is a standing line?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "❕ Standing up", "image": null, "correct": true },
+            { "id": "b", "label": "➖ Lying down", "image": null, "correct": false },
+            { "id": "c", "label": "⭕ Round", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q4",
+          "prompt": "What sound does 🍎 Apple start with?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "A", "image": null, "correct": true },
+            { "id": "b", "label": "B", "image": null, "correct": false },
+            { "id": "c", "label": "C", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q5",
+          "prompt": "What sound does 🐝 Bee start with?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "B", "image": null, "correct": true },
+            { "id": "b", "label": "A", "image": null, "correct": false },
+            { "id": "c", "label": "M", "image": null, "correct": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reason",
+      "title": "Think & Reason",
+      "icon": "reason",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "Which one is tall?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🦒 Giraffe", "image": null, "correct": true },
+            { "id": "b", "label": "🐭 Mouse", "image": null, "correct": false },
+            { "id": "c", "label": "🐜 Ant", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "Which one is big?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🐘 Elephant", "image": null, "correct": true },
+            { "id": "b", "label": "🐜 Ant", "image": null, "correct": false },
+            { "id": "c", "label": "🐭 Mouse", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q3",
+          "prompt": "Which one is small?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🐜 Ant", "image": null, "correct": true },
+            { "id": "b", "label": "🐘 Elephant", "image": null, "correct": false },
+            { "id": "c", "label": "🦒 Giraffe", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q4",
+          "prompt": "Count the balloons: 🎈🎈🎈 — how many?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "3", "image": null, "correct": true },
+            { "id": "b", "label": "2", "image": null, "correct": false },
+            { "id": "c", "label": "4", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q5",
+          "prompt": "Count the stars: ⭐⭐⭐⭐⭐ — how many?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "5", "image": null, "correct": true },
+            { "id": "b", "label": "4", "image": null, "correct": false },
+            { "id": "c", "label": "6", "image": null, "correct": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "My World",
+      "icon": "world",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "You are four years old. Which number is four?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "4", "image": null, "correct": true },
+            { "id": "b", "label": "2", "image": null, "correct": false },
+            { "id": "c", "label": "6", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "Which part do you see with?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "👁️ Eyes", "image": null, "correct": true },
+            { "id": "b", "label": "👂 Ears", "image": null, "correct": false },
+            { "id": "c", "label": "👃 Nose", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q3",
+          "prompt": "Which part do you hear with?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "👂 Ears", "image": null, "correct": true },
+            { "id": "b", "label": "👁️ Eyes", "image": null, "correct": false },
+            { "id": "c", "label": "✋ Hand", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q4",
+          "prompt": "Which part do you smell with?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "👃 Nose", "image": null, "correct": true },
+            { "id": "b", "label": "👂 Ears", "image": null, "correct": false },
+            { "id": "c", "label": "👁️ Eyes", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q5",
+          "prompt": "Which part do you walk with?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🦶 Feet", "image": null, "correct": true },
+            { "id": "b", "label": "✋ Hands", "image": null, "correct": false },
+            { "id": "c", "label": "👀 Eyes", "image": null, "correct": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stretch",
+      "title": "Gubbi Stretch",
+      "icon": "stretch",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "One apple 🍎 and one more apple 🍎. How many apples?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "2", "image": null, "correct": true },
+            { "id": "b", "label": "1", "image": null, "correct": false },
+            { "id": "c", "label": "3", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "Two apples 🍎🍎 and one more 🍎. How many apples?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "3", "image": null, "correct": true },
+            { "id": "b", "label": "2", "image": null, "correct": false },
+            { "id": "c", "label": "4", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q3",
+          "prompt": "Red, blue, red, blue... what comes next?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🔴 Red", "image": null, "correct": true },
+            { "id": "b", "label": "🔵 Blue", "image": null, "correct": false },
+            { "id": "c", "label": "🟢 Green", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q4",
+          "prompt": "Which one is different?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🚗 Car", "image": null, "correct": true },
+            { "id": "b", "label": "🍎 Apple", "image": null, "correct": false },
+            { "id": "c", "label": "🍌 Banana", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q5",
+          "prompt": "Balls are round. Is a square ⬛ a ball?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "No", "image": null, "correct": true },
+            { "id": "b", "label": "Yes", "image": null, "correct": false }
+          ]
+        }
+      ]
+    }
+  ]
+}

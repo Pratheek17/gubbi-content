@@ -1,0 +1,233 @@
+{
+  "week": "2026-06-22",
+  "title": "Week of June 22",
+  "mascotMessage": "Gubbi is back! Ready for new games?",
+  "lessons": [
+    {
+      "id": "sounds",
+      "title": "Sounds & Letters",
+      "icon": "letters",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "What sound does 🐱 Cat start with?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "C", "image": null, "correct": true },
+            { "id": "b", "label": "A", "image": null, "correct": false },
+            { "id": "c", "label": "T", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "What sound does 🐶 Dog start with?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "D", "image": null, "correct": true },
+            { "id": "b", "label": "B", "image": null, "correct": false },
+            { "id": "c", "label": "G", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q3",
+          "prompt": "Which one is a slanting line?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "➗ Slanting", "image": null, "correct": true },
+            { "id": "b", "label": "❕ Standing up", "image": null, "correct": false },
+            { "id": "c", "label": "➖ Lying down", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q4",
+          "prompt": "Which one is maroon (dark red)?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🍎 Apple", "image": null, "correct": true },
+            { "id": "b", "label": "🍋 Lemon", "image": null, "correct": false },
+            { "id": "c", "label": "🫐 Blueberry", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q5",
+          "prompt": "What sound does 🥭 Mango start with?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "M", "image": null, "correct": true },
+            { "id": "b", "label": "N", "image": null, "correct": false },
+            { "id": "c", "label": "P", "image": null, "correct": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reason",
+      "title": "Think & Reason",
+      "icon": "reason",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "Which one is shorter?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🌱 Little plant", "image": null, "correct": true },
+            { "id": "b", "label": "🌳 Big tree", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "Which one is bigger?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🍉 Watermelon", "image": null, "correct": true },
+            { "id": "b", "label": "🍇 Grapes", "image": null, "correct": false },
+            { "id": "c", "label": "🫐 Blueberry", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q3",
+          "prompt": "Count the apples: 🍎🍎🍎🍎 — how many?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "4", "image": null, "correct": true },
+            { "id": "b", "label": "3", "image": null, "correct": false },
+            { "id": "c", "label": "5", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q4",
+          "prompt": "Count the ducks: 🦆🦆 — how many?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "2", "image": null, "correct": true },
+            { "id": "b", "label": "1", "image": null, "correct": false },
+            { "id": "c", "label": "3", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q5",
+          "prompt": "Which group has more apples?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🍎🍎🍎🍎 Four", "image": null, "correct": true },
+            { "id": "b", "label": "🍎🍎 Two", "image": null, "correct": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "My World",
+      "icon": "world",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "Which part do you taste with?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "👅 Tongue", "image": null, "correct": true },
+            { "id": "b", "label": "👂 Ears", "image": null, "correct": false },
+            { "id": "c", "label": "👁️ Eyes", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "Which part do you touch and feel with?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "✋ Hands", "image": null, "correct": true },
+            { "id": "b", "label": "👃 Nose", "image": null, "correct": false },
+            { "id": "c", "label": "👂 Ears", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q3",
+          "prompt": "What should you do before eating?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🧼 Wash hands", "image": null, "correct": true },
+            { "id": "b", "label": "🏃 Run", "image": null, "correct": false },
+            { "id": "c", "label": "😴 Sleep", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q4",
+          "prompt": "What keeps germs away?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🧼 Soap", "image": null, "correct": true },
+            { "id": "b", "label": "🍬 Candy", "image": null, "correct": false },
+            { "id": "c", "label": "🧸 Toy", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q5",
+          "prompt": "Which part do you use to see?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "👁️ Eyes", "image": null, "correct": true },
+            { "id": "b", "label": "🦶 Feet", "image": null, "correct": false },
+            { "id": "c", "label": "👅 Tongue", "image": null, "correct": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stretch",
+      "title": "Gubbi Stretch",
+      "icon": "stretch",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "Which part do you use to listen to music?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "👂 Ears", "image": null, "correct": true },
+            { "id": "b", "label": "👁️ Eyes", "image": null, "correct": false },
+            { "id": "c", "label": "👅 Tongue", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q2",
+          "prompt": "Two apples 🍎🍎 and two more 🍎🍎. How many apples?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "4", "image": null, "correct": true },
+            { "id": "b", "label": "3", "image": null, "correct": false },
+            { "id": "c", "label": "5", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q3",
+          "prompt": "Three balls 🟠🟠🟠 and two more 🟠🟠. How many balls?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "5", "image": null, "correct": true },
+            { "id": "b", "label": "4", "image": null, "correct": false },
+            { "id": "c", "label": "6", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q4",
+          "prompt": "One, two, three... what comes next?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "4", "image": null, "correct": true },
+            { "id": "b", "label": "5", "image": null, "correct": false },
+            { "id": "c", "label": "2", "image": null, "correct": false }
+          ]
+        },
+        {
+          "id": "q5",
+          "prompt": "Up 🔺, down 🔻, up 🔺, down 🔻... what comes next?",
+          "promptImage": null,
+          "choices": [
+            { "id": "a", "label": "🔺 Up", "image": null, "correct": true },
+            { "id": "b", "label": "🔻 Down", "image": null, "correct": false },
+            { "id": "c", "label": "⬛ Square", "image": null, "correct": false }
+          ]
+        }
+      ]
+    }
+  ]
+}
