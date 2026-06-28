@@ -14,6 +14,19 @@ function validate(week) {
       if (c.image && !existsSync(join('weeks', week.week, c.image))) errors.push(`missing image ${c.image}`);
     }
   }
+  // Optional rhymes/stories/shlokas (kept in sync with app src/content/schema.ts).
+  const MEDIA_TYPES = ['rhyme', 'story', 'shloka'];
+  if (week.media !== undefined) {
+    if (!Array.isArray(week.media)) errors.push('media must be an array');
+    else for (const [mi, m] of week.media.entries()) {
+      if (typeof m?.id !== 'string') errors.push(`media[${mi}]: missing id`);
+      if (typeof m?.title !== 'string') errors.push(`media[${mi}]: missing title`);
+      if (!MEDIA_TYPES.includes(m?.type)) errors.push(`media[${mi}]: bad type ${m?.type}`);
+      if (m?.youtubeId !== null && typeof m?.youtubeId !== 'string') errors.push(`media[${mi}]: youtubeId must be string|null`);
+      if (m?.text !== null && typeof m?.text !== 'string') errors.push(`media[${mi}]: text must be string|null`);
+      if (!m?.youtubeId && !m?.text) errors.push(`media[${mi}]: needs youtubeId or text`);
+    }
+  }
   return errors;
 }
 

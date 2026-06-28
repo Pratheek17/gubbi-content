@@ -13,9 +13,24 @@
           "prompt": "What sound does 🐐 Goat start with?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "G", "image": null, "correct": true },
-            { "id": "b", "label": "B", "image": null, "correct": false },
-            { "id": "c", "label": "O", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "G",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "O",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -23,9 +38,24 @@
           "prompt": "What sound does 🐙 Octopus start with?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "A", "image": null, "correct": false },
-            { "id": "b", "label": "O", "image": null, "correct": true },
-            { "id": "c", "label": "U", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "A",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "O",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "c",
+              "label": "U",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -33,9 +63,24 @@
           "prompt": "What sound does 🦁 Lion start with?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "I", "image": null, "correct": false },
-            { "id": "b", "label": "N", "image": null, "correct": false },
-            { "id": "c", "label": "L", "image": null, "correct": true }
+            {
+              "id": "a",
+              "label": "I",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "N",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "L",
+              "image": null,
+              "correct": true
+            }
           ]
         },
         {
@@ -43,9 +88,24 @@
           "prompt": "What sound does 🐟 Fish start with?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "F", "image": null, "correct": true },
-            { "id": "b", "label": "S", "image": null, "correct": false },
-            { "id": "c", "label": "V", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "F",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "S",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "V",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -53,9 +113,24 @@
           "prompt": "What sound does 🍌 Banana start with?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "D", "image": null, "correct": false },
-            { "id": "b", "label": "B", "image": null, "correct": true },
-            { "id": "c", "label": "P", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "D",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "B",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "c",
+              "label": "P",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -63,9 +138,24 @@
           "prompt": "What sound does 🦓 Zebra start with?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "S", "image": null, "correct": false },
-            { "id": "b", "label": "Z", "image": null, "correct": true },
-            { "id": "c", "label": "J", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "S",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "Z",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "c",
+              "label": "J",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -73,9 +163,24 @@
           "prompt": "What sound does 🍉 Watermelon start with?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "W", "image": null, "correct": true },
-            { "id": "b", "label": "V", "image": null, "correct": false },
-            { "id": "c", "label": "M", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "W",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "V",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "M",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -83,9 +188,24 @@
           "prompt": "What sound does 🪀 Yo-yo start with?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "U", "image": null, "correct": false },
-            { "id": "b", "label": "Y", "image": null, "correct": true },
-            { "id": "c", "label": "W", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "U",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "Y",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "c",
+              "label": "W",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -93,9 +213,24 @@
           "prompt": "What sound does 🎻 Violin start with?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "F", "image": null, "correct": false },
-            { "id": "b", "label": "W", "image": null, "correct": false },
-            { "id": "c", "label": "V", "image": null, "correct": true }
+            {
+              "id": "a",
+              "label": "F",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "W",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "V",
+              "image": null,
+              "correct": true
+            }
           ]
         },
         {
@@ -103,9 +238,24 @@
           "prompt": "Which one is an open curve, like the homework? 🌙",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🌙 Curve", "image": null, "correct": true },
-            { "id": "b", "label": "📏 Straight line", "image": null, "correct": false },
-            { "id": "c", "label": "⬛ Square", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🌙 Curve",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "📏 Straight line",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "⬛ Square",
+              "image": null,
+              "correct": false
+            }
           ]
         }
       ]
@@ -120,8 +270,18 @@
           "prompt": "Which group has MORE? 🍎🍎🍎🍎 or 🍎🍎",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🍎🍎🍎🍎 Four", "image": null, "correct": true },
-            { "id": "b", "label": "🍎🍎 Two", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🍎🍎🍎🍎 Four",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "🍎🍎 Two",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -129,8 +289,18 @@
           "prompt": "Which group has LESS? 🟦🟦🟦 or 🟦",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🟦🟦🟦 Three", "image": null, "correct": false },
-            { "id": "b", "label": "🟦 One", "image": null, "correct": true }
+            {
+              "id": "a",
+              "label": "🟦🟦🟦 Three",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "🟦 One",
+              "image": null,
+              "correct": true
+            }
           ]
         },
         {
@@ -138,8 +308,18 @@
           "prompt": "Which one is HEAVY?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🐘 Elephant", "image": null, "correct": true },
-            { "id": "b", "label": "🪶 Feather", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🐘 Elephant",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "🪶 Feather",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -147,8 +327,18 @@
           "prompt": "Which one is LIGHT?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🪨 Big rock", "image": null, "correct": false },
-            { "id": "b", "label": "🎈 Balloon", "image": null, "correct": true }
+            {
+              "id": "a",
+              "label": "🪨 Big rock",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "🎈 Balloon",
+              "image": null,
+              "correct": true
+            }
           ]
         },
         {
@@ -156,9 +346,24 @@
           "prompt": "Count the beads: 🔵🔵🔵 — how many?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "3", "image": null, "correct": true },
-            { "id": "b", "label": "2", "image": null, "correct": false },
-            { "id": "c", "label": "4", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "3",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "2",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "4",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -166,9 +371,24 @@
           "prompt": "Count the crayons: 🖍️🖍️🖍️🖍️🖍️ — how many?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "4", "image": null, "correct": false },
-            { "id": "b", "label": "5", "image": null, "correct": true },
-            { "id": "c", "label": "6", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "4",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "5",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "c",
+              "label": "6",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -176,9 +396,24 @@
           "prompt": "How many fingers? ☝️ — count!",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "1", "image": null, "correct": true },
-            { "id": "b", "label": "2", "image": null, "correct": false },
-            { "id": "c", "label": "3", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "1",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "2",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "3",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -186,9 +421,24 @@
           "prompt": "Which number card goes with 🍓🍓🍓🍓🍓🍓 six strawberries?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "7", "image": null, "correct": false },
-            { "id": "b", "label": "6", "image": null, "correct": true },
-            { "id": "c", "label": "5", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "7",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "6",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "c",
+              "label": "5",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -196,9 +446,24 @@
           "prompt": "Count and tell: 🟠🟠🟠🟠🟠🟠🟠 — how many balls?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "7", "image": null, "correct": true },
-            { "id": "b", "label": "8", "image": null, "correct": false },
-            { "id": "c", "label": "6", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "7",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "8",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "6",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -206,8 +471,18 @@
           "prompt": "Which group has MORE? 🍇🍇🍇🍇🍇 or 🍇🍇🍇",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🍇🍇🍇 Three", "image": null, "correct": false },
-            { "id": "b", "label": "🍇🍇🍇🍇🍇 Five", "image": null, "correct": true }
+            {
+              "id": "a",
+              "label": "🍇🍇🍇 Three",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "🍇🍇🍇🍇🍇 Five",
+              "image": null,
+              "correct": true
+            }
           ]
         }
       ]
@@ -222,9 +497,24 @@
           "prompt": "Which one is a HEALTHY food?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🥕 Carrot", "image": null, "correct": true },
-            { "id": "b", "label": "🍭 Lollipop", "image": null, "correct": false },
-            { "id": "c", "label": "🍩 Donut", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🥕 Carrot",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "🍭 Lollipop",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "🍩 Donut",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -232,9 +522,24 @@
           "prompt": "Which drink is healthy?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🥤 Cola", "image": null, "correct": false },
-            { "id": "b", "label": "💧 Water", "image": null, "correct": true },
-            { "id": "c", "label": "🍫 Milkshake", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🥤 Cola",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "💧 Water",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "c",
+              "label": "🍫 Milkshake",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -242,9 +547,24 @@
           "prompt": "What do you do FIRST in the morning?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🪥 Brush teeth", "image": null, "correct": true },
-            { "id": "b", "label": "📺 Watch TV", "image": null, "correct": false },
-            { "id": "c", "label": "😴 Go to sleep", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🪥 Brush teeth",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "📺 Watch TV",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "😴 Go to sleep",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -252,8 +572,18 @@
           "prompt": "What keeps your body strong and active?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🛋️ Sitting all day", "image": null, "correct": false },
-            { "id": "b", "label": "🏃 Running and play", "image": null, "correct": true }
+            {
+              "id": "a",
+              "label": "🛋️ Sitting all day",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "🏃 Running and play",
+              "image": null,
+              "correct": true
+            }
           ]
         },
         {
@@ -261,9 +591,24 @@
           "prompt": "Which one is a healthy fruit?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🍪 Cookie", "image": null, "correct": false },
-            { "id": "b", "label": "🍌 Banana", "image": null, "correct": true },
-            { "id": "c", "label": "🍬 Candy", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🍪 Cookie",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "🍌 Banana",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "c",
+              "label": "🍬 Candy",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -271,9 +616,24 @@
           "prompt": "What should you do before you eat?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🧼 Wash hands", "image": null, "correct": true },
-            { "id": "b", "label": "🏃 Run", "image": null, "correct": false },
-            { "id": "c", "label": "🎨 Paint", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🧼 Wash hands",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "🏃 Run",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "🎨 Paint",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -281,9 +641,24 @@
           "prompt": "A healthy plate should have lots of...?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🍟 Fries", "image": null, "correct": false },
-            { "id": "b", "label": "🥦 Veggies", "image": null, "correct": true },
-            { "id": "c", "label": "🍰 Cake", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🍟 Fries",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "🥦 Veggies",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "c",
+              "label": "🍰 Cake",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -291,9 +666,24 @@
           "prompt": "After playing outside, what should you do?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🧼 Wash my hands", "image": null, "correct": true },
-            { "id": "b", "label": "🍭 Eat candy", "image": null, "correct": false },
-            { "id": "c", "label": "🛌 Jump on the bed", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🧼 Wash my hands",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "🍭 Eat candy",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "🛌 Jump on the bed",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -301,8 +691,18 @@
           "prompt": "Which one helps you grow big and strong?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🥛 Milk", "image": null, "correct": true },
-            { "id": "b", "label": "🍫 Chocolate", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🥛 Milk",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "🍫 Chocolate",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -310,9 +710,24 @@
           "prompt": "What do you do at night before bed?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🪥 Brush teeth", "image": null, "correct": true },
-            { "id": "b", "label": "🍬 Eat sweets", "image": null, "correct": false },
-            { "id": "c", "label": "🏃 Run fast", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🪥 Brush teeth",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "🍬 Eat sweets",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "🏃 Run fast",
+              "image": null,
+              "correct": false
+            }
           ]
         }
       ]
@@ -327,9 +742,24 @@
           "prompt": "Three apples 🍎🍎🍎 and two more 🍎🍎. How many apples now?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "5", "image": null, "correct": true },
-            { "id": "b", "label": "4", "image": null, "correct": false },
-            { "id": "c", "label": "6", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "5",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "4",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "6",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -337,9 +767,24 @@
           "prompt": "Four beads 🔵🔵🔵🔵 and one more 🔵. How many beads?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "6", "image": null, "correct": false },
-            { "id": "b", "label": "5", "image": null, "correct": true },
-            { "id": "c", "label": "4", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "6",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "5",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "c",
+              "label": "4",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -347,9 +792,24 @@
           "prompt": "Count: one, two, three, four... what number comes NEXT?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "5", "image": null, "correct": true },
-            { "id": "b", "label": "6", "image": null, "correct": false },
-            { "id": "c", "label": "3", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "5",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "6",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "3",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -357,9 +817,24 @@
           "prompt": "Which one is the HEAVIEST?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🐘 Elephant", "image": null, "correct": true },
-            { "id": "b", "label": "🐕 Dog", "image": null, "correct": false },
-            { "id": "c", "label": "🐜 Ant", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🐘 Elephant",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "🐕 Dog",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "🐜 Ant",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -367,8 +842,18 @@
           "prompt": "Snack time! Which is the healthier choice?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🍎 Apple", "image": null, "correct": true },
-            { "id": "b", "label": "🍫 Chocolate bar", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🍎 Apple",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "🍫 Chocolate bar",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -376,9 +861,24 @@
           "prompt": "Five crayons 🖍️🖍️🖍️🖍️🖍️. Take away two 🖍️🖍️. How many are left?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "3", "image": null, "correct": true },
-            { "id": "b", "label": "4", "image": null, "correct": false },
-            { "id": "c", "label": "2", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "3",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "4",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "2",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -386,9 +886,24 @@
           "prompt": "Which group has the MOST? Choose the biggest pile.",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "⭐⭐ Two", "image": null, "correct": false },
-            { "id": "b", "label": "⭐⭐⭐⭐⭐ Five", "image": null, "correct": true },
-            { "id": "c", "label": "⭐⭐⭐ Three", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "⭐⭐ Two",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "b",
+              "label": "⭐⭐⭐⭐⭐ Five",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "c",
+              "label": "⭐⭐⭐ Three",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -396,8 +911,18 @@
           "prompt": "Big 🟢, small 🟢, big 🟢, small 🟢... what comes next?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "Big 🟢", "image": null, "correct": true },
-            { "id": "b", "label": "Small 🟢", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "Big 🟢",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "Small 🟢",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -405,9 +930,24 @@
           "prompt": "🍎 starts with A... which other word starts with the SAME sound as Apple?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "🐜 Ant", "image": null, "correct": true },
-            { "id": "b", "label": "🐶 Dog", "image": null, "correct": false },
-            { "id": "c", "label": "🐱 Cat", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "🐜 Ant",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "🐶 Dog",
+              "image": null,
+              "correct": false
+            },
+            {
+              "id": "c",
+              "label": "🐱 Cat",
+              "image": null,
+              "correct": false
+            }
           ]
         },
         {
@@ -415,11 +955,65 @@
           "prompt": "Seven balloons 🎈, two fly away. Are there now MORE or LESS balloons?",
           "promptImage": null,
           "choices": [
-            { "id": "a", "label": "Less", "image": null, "correct": true },
-            { "id": "b", "label": "More", "image": null, "correct": false }
+            {
+              "id": "a",
+              "label": "Less",
+              "image": null,
+              "correct": true
+            },
+            {
+              "id": "b",
+              "label": "More",
+              "image": null,
+              "correct": false
+            }
           ]
         }
       ]
+    }
+  ],
+  "media": [
+    {
+      "id": "m1",
+      "type": "rhyme",
+      "title": "Jolly Phonics A–Z",
+      "youtubeId": "wg-bW_TNmuA",
+      "text": null
+    },
+    {
+      "id": "m2",
+      "type": "rhyme",
+      "title": "More or Less?",
+      "youtubeId": "GrHJZRYkz94",
+      "text": null
+    },
+    {
+      "id": "m3",
+      "type": "rhyme",
+      "title": "Healthy Foods, Happy Bodies",
+      "youtubeId": "ldrdvrJS9Fw",
+      "text": null
+    },
+    {
+      "id": "m4",
+      "type": "story",
+      "title": "This Is My Body",
+      "youtubeId": "RKCxrbuKNx8",
+      "text": null
+    },
+    {
+      "id": "m5",
+      "type": "shloka",
+      "title": "Saraswati Namastubhyam",
+      "youtubeId": "pp_DpgtgyME",
+      "text": "Saraswati Namastubhyam\nVarade Kama Rupini\nVidyarambham Karishyami\nSiddhir Bhavatu Me Sada"
+    },
+    {
+      "id": "m6",
+      "type": "shloka",
+      "title": "Shuklambaradharam Vishnum",
+      "youtubeId": "lYXj7veGKDI",
+      "text": "Shuklambaradharam Vishnum\nShashivarnam Chaturbhujam\nPrasanna Vadanam Dhyayet\nSarva Vighnopa Shantaye"
     }
   ]
 }
